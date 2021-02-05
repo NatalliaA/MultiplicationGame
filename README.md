@@ -1,6 +1,9 @@
 # MultiplicationGame
 Interactive application built with JavaScript
 
+### View Live
+<https://natalliaa.github.io/multiplication/index.html>
+
 <h4>Description</h4>
                             <p>The main purpose of the project was to build an interactive application - Multiplication Game. The game demonstrates programming with JavaScript.</p>
                             <h4>Developing Tools:</h4>
